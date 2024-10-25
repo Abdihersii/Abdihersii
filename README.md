@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning frontend development at Medieinstitutet
   
-- 💞️ I’m looking to collaborate on nothingn yet ;)
+- 💞️ I’m looking to collaborate on nothing yet ;)
   
 - ⚡ To be continued...
 

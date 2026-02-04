@@ -1,15 +1,5 @@
-- 👋 Hi, I’m @Abdihersii
-  
-- 👀 I’m interested in CODEEEE
-  
-- 🌱 I’m currently learning frontend development at Medieinstitutet
-  
-- 💞️ I’m looking to collaborate on nothing yet ;)
-  
-- ⚡ To be continued...
+ 👋 Hi, I’m @Abdihersii (Abdirahman Hersi) | Fullstack Developer    
+ 
+Building web apps with React, TypeScript, Prisma, Python, AI and more. 
 
-
-<!---
-Abdihersii/Abdihersii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focused on clean code, squashing bugs, and shipping quality projects

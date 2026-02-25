@@ -1,5 +1,10 @@
 <!-- Intro -->
 <h1 align="center">👋 Hi, I’m Abdirahman Hersi (@Abdihersii)</h1>
+
+<p align="center">
+  <img src="IMG_0734.jpeg" alt="Abdirahman Hersi" width="150" style="border-radius:50%; border: 3px solid #4a90e2;"/>
+</p>
+
 <p align="center">
   Fullstack Developer | React, TypeScript, Prisma, Python & AI  
   <br>
